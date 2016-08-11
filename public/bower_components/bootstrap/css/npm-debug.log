@@ -1,0 +1,241 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'i',
+1 verbose cli   'angular-animate' ]
+2 info using npm@2.15.8
+3 info using node@v4.4.7
+4 verbose install initial load of H:\project\tutor\package.json
+5 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\MD5\package.json
+6 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\angular-animate\package.json
+7 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\angular-lodash\package.json
+8 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\chai\package.json
+9 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\config\package.json
+10 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\date-utils\package.json
+11 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\excel-export\package.json
+12 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\fileupload\package.json
+13 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\find-remove\package.json
+14 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\grunt\package.json
+15 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\grunt-contrib-concat\package.json
+16 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\grunt-contrib-cssmin\package.json
+17 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\grunt-contrib-uglify\package.json
+18 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\grunt-contrib-watch\package.json
+19 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\grunt-filerev\package.json
+20 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\grunt-http\package.json
+21 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\grunt-markdown\package.json
+22 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\grunt-mocha-test\package.json
+23 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\grunt-shell\package.json
+24 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\grunt-ssh\package.json
+25 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\grunt-supervisor\package.json
+26 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\load-grunt-config\package.json
+27 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\load-grunt-tasks\package.json
+28 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\lodash\package.json
+29 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\log4js\package.json
+30 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\mathjs\package.json
+31 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\mongoose\package.json
+32 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\mongoose-function\package.json
+33 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\mongoose-lifecycle\package.json
+34 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\mongoose-schema-extend\package.json
+35 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\nodemailer\package.json
+36 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\passport\package.json
+37 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\passport-http-bearer\package.json
+38 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\q\package.json
+39 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\restify\package.json
+40 verbose installManyTop reading scoped package data from H:\project\tutor\node_modules\state\package.json
+41 info package.json passport-http-bearer@1.0.1 No license field.
+42 info package.json state@0.2.0 No license field.
+43 info package.json config@1.0.2 No license field.
+44 info package.json angular-lodash@0.1.1 No license field.
+45 info package.json excel-export@0.3.11 license should be a valid SPDX license expression
+46 info package.json grunt-contrib-uglify@0.4.1 No license field.
+47 info package.json grunt-contrib-concat@0.4.0 No license field.
+48 info package.json grunt-contrib-cssmin@0.12.3 No license field.
+49 info package.json grunt-filerev@2.3.1 license should be a valid SPDX license expression
+50 info package.json grunt-http@1.2.0 No license field.
+51 info package.json grunt-contrib-watch@0.6.1 No license field.
+52 info package.json grunt-markdown@0.7.0 No license field.
+53 info package.json grunt-mocha-test@0.10.2 No license field.
+54 info package.json fileupload@0.3.0 No license field.
+55 info package.json grunt-supervisor@0.2.4 No license field.
+56 info package.json mongoose-schema-extend@0.1.7 license should be a valid SPDX license expression
+57 info package.json nodemailer@0.6.5 No license field.
+58 info package.json restify@2.6.3 No license field.
+59 info package.json q@1.0.1 license should be a valid SPDX license expression
+60 verbose readDependencies loading dependencies from H:\project\tutor\package.json
+61 verbose install angular-animate is installed as 1.5.8
+62 silly cache add args [ 'angular-animate', null ]
+63 verbose cache add spec angular-animate
+64 silly cache add parsed spec Result {
+64 silly cache add   raw: 'angular-animate',
+64 silly cache add   scope: null,
+64 silly cache add   name: 'angular-animate',
+64 silly cache add   rawSpec: '',
+64 silly cache add   spec: 'latest',
+64 silly cache add   type: 'tag' }
+65 silly addNamed angular-animate@latest
+66 verbose addNamed "latest" is being treated as a dist-tag for angular-animate
+67 info addNameTag [ 'angular-animate', 'latest' ]
+68 silly mapToRegistry name angular-animate
+69 silly mapToRegistry using default registry
+70 silly mapToRegistry registry https://registry.npmjs.org/
+71 silly mapToRegistry data Result {
+71 silly mapToRegistry   raw: 'angular-animate',
+71 silly mapToRegistry   scope: null,
+71 silly mapToRegistry   name: 'angular-animate',
+71 silly mapToRegistry   rawSpec: '',
+71 silly mapToRegistry   spec: 'latest',
+71 silly mapToRegistry   type: 'tag' }
+72 silly mapToRegistry uri https://registry.npmjs.org/angular-animate
+73 verbose addNameTag registry:https://registry.npmjs.org/angular-animate not in flight; fetching
+74 verbose request uri https://registry.npmjs.org/angular-animate
+75 verbose request no auth needed
+76 info attempt registry request try #1 at 23:04:20
+77 verbose request id b29055f092e76d4e
+78 verbose etag "9X1L463VZSIW8DMN483BEADUC"
+79 http request GET https://registry.npmjs.org/angular-animate
+80 http 304 https://registry.npmjs.org/angular-animate
+81 verbose headers { date: 'Sun, 31 Jul 2016 15:04:21 GMT',
+81 verbose headers   via: '1.1 varnish',
+81 verbose headers   'cache-control': 'max-age=300',
+81 verbose headers   etag: '"9X1L463VZSIW8DMN483BEADUC"',
+81 verbose headers   age: '51',
+81 verbose headers   connection: 'keep-alive',
+81 verbose headers   'x-served-by': 'cache-lcy1131-LCY',
+81 verbose headers   'x-cache': 'HIT',
+81 verbose headers   'x-cache-hits': '1',
+81 verbose headers   'x-timer': 'S1469977461.687270,VS0,VE0',
+81 verbose headers   vary: 'Accept-Encoding' }
+82 silly get cb [ 304,
+82 silly get   { date: 'Sun, 31 Jul 2016 15:04:21 GMT',
+82 silly get     via: '1.1 varnish',
+82 silly get     'cache-control': 'max-age=300',
+82 silly get     etag: '"9X1L463VZSIW8DMN483BEADUC"',
+82 silly get     age: '51',
+82 silly get     connection: 'keep-alive',
+82 silly get     'x-served-by': 'cache-lcy1131-LCY',
+82 silly get     'x-cache': 'HIT',
+82 silly get     'x-cache-hits': '1',
+82 silly get     'x-timer': 'S1469977461.687270,VS0,VE0',
+82 silly get     vary: 'Accept-Encoding' } ]
+83 verbose etag https://registry.npmjs.org/angular-animate from cache
+84 verbose get saving angular-animate to C:\Users\Administrator\AppData\Roaming\npm-cache\registry.npmjs.org\angular-animate\.cache.json
+85 verbose correctMkdir C:\Users\Administrator\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+86 silly addNameTag next cb for angular-animate with tag latest
+87 silly addNamed angular-animate@1.5.8
+88 verbose addNamed "1.5.8" is a plain semver version for angular-animate
+89 silly cache afterAdd angular-animate@1.5.8
+90 verbose afterAdd C:\Users\Administrator\AppData\Roaming\npm-cache\angular-animate\1.5.8\package\package.json not in flight; writing
+91 verbose correctMkdir C:\Users\Administrator\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+92 verbose afterAdd C:\Users\Administrator\AppData\Roaming\npm-cache\angular-animate\1.5.8\package\package.json written
+93 silly install resolved [ { name: 'angular-animate',
+93 silly install resolved     version: '1.5.8',
+93 silly install resolved     description: 'AngularJS module for animations',
+93 silly install resolved     main: 'index.js',
+93 silly install resolved     scripts: { test: 'echo "Error: no test specified" && exit 1' },
+93 silly install resolved     repository:
+93 silly install resolved      { type: 'git',
+93 silly install resolved        url: 'git+https://github.com/angular/angular.js.git' },
+93 silly install resolved     keywords: [ 'angular', 'framework', 'browser', 'animation', 'client-side' ],
+93 silly install resolved     author:
+93 silly install resolved      { name: 'Angular Core Team',
+93 silly install resolved        email: 'angular-core+npm@google.com' },
+93 silly install resolved     license: 'MIT',
+93 silly install resolved     bugs: { url: 'https://github.com/angular/angular.js/issues' },
+93 silly install resolved     homepage: 'http://angularjs.org',
+93 silly install resolved     jspm: { shim: [Object] },
+93 silly install resolved     gitHead: '688b68844cf95420e1793327f69d0c25589c23d1',
+93 silly install resolved     _id: 'angular-animate@1.5.8',
+93 silly install resolved     _shasum: '535f7369225aba7fb15bf7134c71b15bc635c586',
+93 silly install resolved     _from: 'angular-animate@latest',
+93 silly install resolved     _npmVersion: '2.15.8',
+93 silly install resolved     _nodeVersion: '4.4.7',
+93 silly install resolved     _npmUser: { name: 'angularcore', email: 'angular-core+npm@google.com' },
+93 silly install resolved     dist:
+93 silly install resolved      { shasum: '535f7369225aba7fb15bf7134c71b15bc635c586',
+93 silly install resolved        tarball: 'https://registry.npmjs.org/angular-animate/-/angular-animate-1.5.8.tgz' },
+93 silly install resolved     maintainers: [ [Object], [Object], [Object] ],
+93 silly install resolved     _npmOperationalInternal:
+93 silly install resolved      { host: 'packages-12-west.internal.npmjs.com',
+93 silly install resolved        tmp: 'tmp/angular-animate-1.5.8.tgz_1469201403735_0.004368406254798174' },
+93 silly install resolved     directories: {},
+93 silly install resolved     _resolved: 'https://registry.npmjs.org/angular-animate/-/angular-animate-1.5.8.tgz',
+93 silly install resolved     readme: 'ERROR: No README data found!' } ]
+94 info install angular-animate@1.5.8 into H:\project\tutor
+95 info installOne angular-animate@1.5.8
+96 verbose installOne of angular-animate to H:\project\tutor not in flight; installing
+97 verbose correctMkdir C:\Users\Administrator\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+98 verbose lock using C:\Users\Administrator\AppData\Roaming\npm-cache\_locks\angular-animate-73666973ea640cd6.lock for H:\project\tutor\node_modules\angular-animate
+99 silly install write writing angular-animate 1.5.8 to H:\project\tutor\node_modules\angular-animate
+100 verbose unbuild node_modules\angular-animate
+101 info preuninstall angular-animate@1.5.8
+102 info uninstall angular-animate@1.5.8
+103 verbose unbuild rmStuff angular-animate@1.5.8 from H:\project\tutor\node_modules
+104 info postuninstall angular-animate@1.5.8
+105 silly gentlyRm H:\project\tutor\node_modules\angular-animate is being purged from base H:\project\tutor
+106 verbose gentlyRm don't care about contents; nuking H:\project\tutor\node_modules\angular-animate
+107 silly vacuum-fs purging H:\project\tutor\node_modules\angular-animate
+108 silly vacuum-fs quitting because other entries in H:\project\tutor\node_modules
+109 verbose tar unpack C:\Users\Administrator\AppData\Roaming\npm-cache\angular-animate\1.5.8\package.tgz
+110 verbose tar unpacking to H:\project\tutor\node_modules\angular-animate
+111 silly gentlyRm H:\project\tutor\node_modules\angular-animate is being purged
+112 verbose gentlyRm don't care about contents; nuking H:\project\tutor\node_modules\angular-animate
+113 silly gunzTarPerm modes [ '777', '666' ]
+114 silly gunzTarPerm extractEntry package.json
+115 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+116 silly gunzTarPerm extractEntry README.md
+117 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+118 silly gunzTarPerm extractEntry angular-animate.js
+119 silly gunzTarPerm modified mode [ 'angular-animate.js', 420, 438 ]
+120 silly gunzTarPerm extractEntry angular-animate.min.js
+121 silly gunzTarPerm modified mode [ 'angular-animate.min.js', 420, 438 ]
+122 silly gunzTarPerm extractEntry index.js
+123 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+124 silly gunzTarPerm extractEntry LICENSE.md
+125 silly gunzTarPerm modified mode [ 'LICENSE.md', 420, 438 ]
+126 silly gunzTarPerm extractEntry angular-animate.min.js.map
+127 silly gunzTarPerm modified mode [ 'angular-animate.min.js.map', 420, 438 ]
+128 silly gunzTarPerm extractEntry bower.json
+129 silly gunzTarPerm modified mode [ 'bower.json', 420, 438 ]
+130 verbose write writing to H:\project\tutor\node_modules\angular-animate\package.json
+131 info preinstall angular-animate@1.5.8
+132 verbose readDependencies loading dependencies from H:\project\tutor\node_modules\angular-animate\package.json
+133 verbose readDependencies loading dependencies from H:\project\tutor\node_modules\angular-animate\package.json
+134 silly install resolved []
+135 verbose about to build H:\project\tutor\node_modules\angular-animate
+136 info build H:\project\tutor\node_modules\angular-animate
+137 info linkStuff angular-animate@1.5.8
+138 silly linkStuff angular-animate@1.5.8 has H:\project\tutor\node_modules as its parent node_modules
+139 verbose linkBins angular-animate@1.5.8
+140 verbose linkMans angular-animate@1.5.8
+141 verbose rebuildBundles angular-animate@1.5.8
+142 info install angular-animate@1.5.8
+143 info postinstall angular-animate@1.5.8
+144 verbose unlock done using C:\Users\Administrator\AppData\Roaming\npm-cache\_locks\angular-animate-73666973ea640cd6.lock for H:\project\tutor\node_modules\angular-animate
+145 verbose validateInstall loading H:\project\tutor\package.json for validation
+146 verbose stack Error: The package grunt@1.0.1 does not satisfy its siblings' peerDependencies requirements!
+146 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\install.js:125:32
+146 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\install.js:268:7
+146 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:142:5
+146 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+146 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+146 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+146 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+146 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+146 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+146 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+147 verbose cwd H:\project\tutor\public\bower_components\bootstrap\css
+148 error Windows_NT 10.0.14393
+149 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "i" "angular-animate"
+150 error node v4.4.7
+151 error npm  v2.15.8
+152 error code EPEERINVALID
+153 error peerinvalid The package grunt@1.0.1 does not satisfy its siblings' peerDependencies requirements!
+153 error peerinvalid Peer grunt-contrib-concat@0.4.0 wants grunt@~0.4.0
+153 error peerinvalid Peer grunt-shell@0.7.0 wants grunt@~0.4.0
+153 error peerinvalid Peer grunt-filerev@2.3.1 wants grunt@>=0.4.0
+153 error peerinvalid Peer grunt-http@1.2.0 wants grunt@~0.4.1
+153 error peerinvalid Peer grunt-ssh@0.12.9 wants grunt@~0.4.1
+153 error peerinvalid Peer grunt-contrib-watch@0.6.1 wants grunt@~0.4.0
+153 error peerinvalid Peer grunt-contrib-uglify@0.4.1 wants grunt@~0.4.0
+153 error peerinvalid Peer grunt-contrib-cssmin@0.12.3 wants grunt@>=0.4.0
+154 verbose exit [ 1, true ]

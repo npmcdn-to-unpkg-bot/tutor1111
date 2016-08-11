@@ -1,0 +1,40 @@
+{
+  "name": "tutor",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/",
+    "test",
+    "tests",
+    "public/bower_components"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "angular": "^1.5.8",
+    "lodash": "^4.14.1",
+    "angular-animate": "^1.5.8",
+    "angular-bootstrap": "^2.0.0",
+    "angular-chosen": "*",
+    "angular-cookies": "^1.5.8",
+    "angular-i18n": "^1.5.8",
+    "angular-lodash": "^0.1.2",
+    "angular-local-storage": "^0.3.0",
+    "angular-markdown-directive": "^0.3.1",
+    "angular-md5": "^0.1.10",
+    "angular-resource": "^1.5.8",
+    "angular-sanitize": "^1.5.8",
+    "angular-toastr": "^2.0.0",
+    "angular-translate": "^2.11.1",
+    "angular-ui-router": "^0.3.1",
+    "angular-ui-utils": "^3.0.0",
+    "font-awesome": "^4.6.3",
+    "date-utils": "^1.2.16",
+    "angular-ui-grid": "ng-grid#^3.2.1",
+    "ng-file-upload": "^12.0.4"
+  }
+}
